@@ -20,6 +20,7 @@ pip install lxml
 pip install jupyter
 pip install matplotlib
 pip install tf_slim
+pip install opencv-python
 ```
 
 3. Download the files from this repository
