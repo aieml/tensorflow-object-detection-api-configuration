@@ -12,7 +12,7 @@ This tutorial discusses how to configure the Tensorflow Object Detection API in 
 2. Open the Anaconda Prompt and install the dependencies for windows,
 
 ```
-pip install tensorflow
+pip install tensorflow==2.4.1
 pip install Cython
 pip install contextlib2
 pip install pillow
