@@ -18,6 +18,8 @@ pip install contextlib2
 pip install pillow
 pip install lxml
 pip install jupyter
+pip install matplotlib
+pip install tf_slim
 ```
 
 3. Download the files from this repository
