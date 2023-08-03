@@ -4,7 +4,7 @@ This tutorial discusses how to configure the Tensorflow Object Detection API in 
 ## Credits & Links
 
 1. [Download Tensorflow Object Detection API](https://github.com/tensorflow/models)
-2. [How to install Tensorflow Object Detection](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md)
+2. [How to install Tensorflow Object Detection](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md)
 
 ## Installing the Tensorflow Object Detection API
 
